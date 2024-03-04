@@ -1,9 +1,3 @@
-<script lang="ts">
-	let className: string;
-
-	export { className as class };
-</script>
-
 <svg xmlns="http://www.w3.org/2000/svg" class="h-6 w-6" viewBox="0 0 48 48">
 	<path
 		fill="#FFC107"

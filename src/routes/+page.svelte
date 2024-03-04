@@ -19,7 +19,7 @@
 	{:else}
 		<a
 			class="rounded-md grayscale-[30%] hover:grayscale-0 border-gray-300 hover:bg-gray-100 text-gray-600 hover:text-black border-2 flex items-center gap-2 px-4 py-2"
-			href="/auth/google"><Google class="" /> Login</a
+			href="/auth/google"><Google /> Login</a
 		>
 	{/if}
 </div>
