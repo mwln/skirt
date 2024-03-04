@@ -63,7 +63,6 @@ export async function GET({ url, cookies }: RequestEvent) {
 			}
 		});
 	} catch (e) {
-		console.log(e);
 		if (e instanceof OAuth2RequestError) {
 			return new Response(null, {
 				status: 400
